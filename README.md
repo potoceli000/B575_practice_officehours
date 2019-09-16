@@ -1,2 +1,3 @@
-# B575_practice_officehours
-office hour play around
+# Fun office hours
+messing around to learn
+
